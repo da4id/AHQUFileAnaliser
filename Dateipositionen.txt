@@ -1,0 +1,15 @@
+Dateipositionen
+
+Scene Name:             0x0C
+
+1. Kanalnummer:         0xe7
+1. Phantom:             0xCA    0x01 = Ein; 0x00 = Aus
+1. Name:                0xCC
+Offset weitere Namen:   0xC0
+
+
+Phantom: 0x120a
+
+Local					0xb4 = 0, 0xbb = 0
+DSnake					0xb4 = 0, 0xbb = 1
+USB						0xb4 = 1, 0xbb = 1
