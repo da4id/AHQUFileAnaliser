@@ -27,4 +27,6 @@ Feel free to fork and create a pull request with your changes
 You can use the diff.php script to compare two files. This script provides you which bytes have changed
 
 All Files have the same size and each value is always on the same position in the file. 
-Each channel uses 192 Bytes to store its data. The first byte is the channel number starting with 0. Outputchannels uses 0xff as channel number
+Each channel uses 192 Bytes to store its data. The first byte is the channel number starting with 0. Outputchannels uses 0xff as channel number. 
+
+In The Scenefiles folder are some example files. Band.DAT ist the main file. All other files have only the changes written in the filename to that file.
