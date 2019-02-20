@@ -4,7 +4,10 @@ Fileanalyser for Allen Heath Qu-Mixer Scene Files
 This is a PHP Script where you can Upload your SCENE Files from your Allen Heath QU Mixer.  
 You can find these files on your USB Drive under AHQU/SCENES/SCENEXXX.DAT where XXX is a Number.
 
-Features
+# Demo
+have a try on qu.davidzingg.ch
+
+# Features
 * Channel Number
 * Channel Name
 * Source
