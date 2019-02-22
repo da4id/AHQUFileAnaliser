@@ -5,7 +5,7 @@ This is a PHP Script where you can Upload your SCENE Files from your Allen Heath
 You can find these files on your USB Drive under AHQU/SCENES/SCENEXXX.DAT where XXX is a Number.
 
 # Demo
-[Try it out](http://qu.davidzingg.ch)
+[Try it out](https://bit.ly/2H1LSTU)
 
 # Features
 * Channel Number
